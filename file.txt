@@ -1,0 +1,1 @@
+[{"name":"cgp","age":18,"score":70},{"name":"yeye","age":18,"score":100}]
