@@ -18,3 +18,27 @@ const read=()=>{
 }
 // write()
 read()
+
+// var express = require('express');
+// var router = express.Router();
+
+// router.get('/', function(req, res, next) {
+//     res.send('Welecome to school');
+//   });
+  
+//   router.get('/file', function(req, res, next) {
+//     res.send(userList);
+//   })
+  
+//   router.get('/file/add', function(req, res, next) {
+//     userList.map(i => i.score += 1);
+//     res.send(userList);
+//   })
+  
+//   router.get('/file/reduce', function(req, res, next) {
+//     userList.map(i => i.score -= 1);
+//     res.send(userList);
+//   })
+
+// module.exports = router;
+  
