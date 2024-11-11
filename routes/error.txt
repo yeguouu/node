@@ -1,0 +1,7 @@
+1. class
+2. 变量命名重复
+3. JSON.parse 方法用于将 JSON 字符串解析为 JavaScript 对象。
+   JSON.stringify 方法用于将 JavaScript 对象转换为 JSON 字符串。
+4. 从文件里面读和写
+5. 引入用 var FileDb = require('./FileDb')
+6. 
